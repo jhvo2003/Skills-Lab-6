@@ -4,3 +4,6 @@ c_f = int(input("Input 0 if this temperature is Celsius and input 2 if this temp
 if (c_f == 0):
     Fahrenheit = (c_f * (9/5)) + 32
     print("This temperature in Fahrenheit is ", Fahrenheit)
+else:
+    Celcius = (5/9)*(c_f - 32) 
+    print("The temperature in Celcius is:", Celcius)
