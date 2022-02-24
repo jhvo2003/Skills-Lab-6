@@ -27,3 +27,5 @@ Personal Code of Conduct Example: [https://examples.yourdictionary.com/simple-co
                   In a violent situation, I will only retaliate with violence if I am unable to call for or get to help.
 
                   If a disagreement turns into a negative argument, I will walk away from the situation.
+                  
+                 
