@@ -1,5 +1,11 @@
 # Skills-Lab-6
-Our program asks for the user's name and then asks the user for the temperature outside at the time. It then takes this temperature and converts it to Celsius or Fahrenheit depending on the user input.
+#Project Temperature Calculator
+***
+Temperature Calculator is a program that successfully takes the user's name and asks the the user the temperature outside. Depending on whether the temperature was inputed as Celsius or Fahrenheit, it returns the converted temperature. For example, if the user inputs 0 degrees Celsius, the program would return the temperature in Fahrenheit, which would be 32.
+
+##Installation
+***
+
 
 Collaborators: Jason Vo and Liya Zheng
 
